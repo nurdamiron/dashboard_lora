@@ -15,3 +15,11 @@ This documentation provides an overview of the features and functionalities of t
 - Silent mode or "do not disturb" mode in the application
 - Additional information about the office climate
 
+### Departmental Offices
+
+In addition to the features of Smart Doors for Private Offices, departmental offices include:
+
+- Monitor with attendance system
+- Access control system with NFC or Face ID
+- Information about the department and their role in the company
+- Additional information about the office climate
