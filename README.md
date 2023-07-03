@@ -41,3 +41,10 @@ The employee application provides the following capabilities:
 - Customizing the monitor interface for users with personal workspaces
 
 Additionally, the system includes automatic control of lighting and climate when no one is present in the office, helping to conserve energy.
+
+## Security System
+
+The Smart Office system incorporates a comprehensive security system that includes:
+
+- Fire and smoke detection
+- Intrusion detection and prevention
