@@ -31,3 +31,13 @@ In addition to the features of Smart Doors for Private Offices, departmental off
 - Additional information on rules for using the rooms
 - Interactive map of the office and its locations
 
+### Employee Application
+
+The employee application provides the following capabilities:
+
+- Climate control (temperature, humidity, etc.)
+- Lighting control
+- Booking conference rooms or meeting rooms
+- Customizing the monitor interface for users with personal workspaces
+
+Additionally, the system includes automatic control of lighting and climate when no one is present in the office, helping to conserve energy.
