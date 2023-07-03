@@ -23,3 +23,11 @@ In addition to the features of Smart Doors for Private Offices, departmental off
 - Access control system with NFC or Face ID
 - Information about the department and their role in the company
 - Additional information about the office climate
+
+### Conference Rooms and Meeting Rooms
+
+- Ability to book rooms based on the company's available calendar
+- Additional information about the room's climate
+- Additional information on rules for using the rooms
+- Interactive map of the office and its locations
+
