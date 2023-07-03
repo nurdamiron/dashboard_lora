@@ -48,3 +48,9 @@ The Smart Office system incorporates a comprehensive security system that includ
 
 - Fire and smoke detection
 - Intrusion detection and prevention
+
+## Getting Started
+
+To get started with the Smart Office system, follow the installation instructions in the accompanying installation guide.
+
+For detailed usage instructions and API documentation, refer to the User Manual and API Documentation provided separately.
